@@ -9,7 +9,7 @@ LLM을 사용해서 복잡한 워크플로를 짜고 싶은 분들을 위하여 
 
 - langgraph의 핵심 개념을 이해합니다. 
 - langgraph의 핵심 구성요소를 배웁니다. 
-- langgraph를 동작시키는 워크플로workflow를 그립니다. 
+- langgraph를 동작시키는 워크플로workflow를 그립니다. (Graph, Functional)  
 
 
 ##  소개 
